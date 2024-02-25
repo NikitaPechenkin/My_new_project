@@ -1,0 +1,37 @@
+
+
+        /* CSS стили */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: black;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        .album {
+            margin-bottom: 20px;
+        }
+
+        .album img {
+            display: block;
+            margin: 0 auto;
+            width: 300px;
+            height: 300px;
+            object-fit: cover;
+        }
+
+        .album h2 {
+            text-align: center;
+        }
+
+        .album p {
+            text-align: justify;
+        }
