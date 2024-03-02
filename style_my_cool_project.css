@@ -83,3 +83,11 @@ line-height: 1;
     font-weight: bold;
     border-radius: 6px;
 }
+
+.header-info-block {
+    display: flex;
+    justify-content: space-between;
+}
+.card-info {
+    max-width: 361px;
+}
