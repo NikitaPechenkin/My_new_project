@@ -44,26 +44,102 @@
                      созданных и разрабатываемых главным образом британской компанией-разработчиком Rockstar North (бывшая DMA Design) и выпускаемых компанией Rockstar Games.
                 </p>
             </div>
-            <div class="audio-block">
-                <img src="img/man.jpg" alt="">
+            <div class="audio-holder">
+                <div class="audio-block">
+                    <img src="img/man.jpg" alt="">
+                </div>
+                <div class="audio-container">
+                    <div class="audio-detail">
+                        <div class="control">
+                            <i class="fi-rr-play" id="playPause"></i>
+                            <div id="wave"></div>
+                    </div>
             </div>
-            <div class="audio-container">
-                <img src="/img/audio.png" class="audio-track" alt="">
-                <a href="#" class="play-btn">
-                    <img src="/img/icons/play.svg" alt="">
-                </a>
             </div>
+            <div class="audio-author">
+                <div>
             <h2 class="about-title">Karl</h2>
             <span class="about-subtitle">Johnson</span>
+        </div>
+        <div class="time">
+            <span id="current">0:00</span>
+            <span id="duration">0:00</span>
+        </div>
+                        </div>
+                        
+        </div>
         </section>
         
     </div>
 </header>
-<footer class="footer">
+<main class="main-content">
     <div class="container">
-        section
+        <section class="courses">
+            <h1 class="course-section-title">от ГТА 1 <br> до ГТА 5</h1>
+            <section class="course-row">
+                <div class="course-card card-big">
+                    <div class="img-container img-card-1">
+                        <span class="btn-raiting">
+                            4.0
+                            <img src="/img/icons/star.svg" alt="">
+                        </span>
+                    </div>
+                    <div class="info-container">
+                            <h4 class="course-category">gta1</h4>
+                            <h2 class="course-title"> Gta 1 первая в своем роде</h2>
+                            <p course-desc>Grand Theft Auto (сокращённо — GTA) — компьютерная игра в жанре action-adventure, первая в составе известной одноимённой франшизы.
+                                Игроку предстоит взять на себя роль преступника, который может свободно перемещаться по городу и выполнять различные задания криминального характера, такие как заказные убийства, угоны и так далее.</p>
+                    </div>
+                </div>
+                
+                <div class="course-card card-small">
+                    <div class="img-container img-card-2">
+                        <span class="btn-raiting">
+                            4.5
+                            <img src="/img/icons/star.svg" alt="">
+                        </span>
+                    </div>
+                    <div class="info-container">
+                    <h2 class="course-title">GTA 2</h2>
+                        <p class="course-desc">Компьютерная игра в жанре action-adventure, продолжение Grand Theft Auto, разработанная компанией DMA Design. С 22 декабря 2004 года современная PC-версия игры GTA 2, содержащая многопользовательский режим, была доступна для скачивания на официальном сайте Rockstar Games.</p>
+                    </div>
+                </div>
+            </section>
+            <section class="course-row">
+                <div class="course-card card-big">
+                    <div class="img-container img-card-3">
+                        <span class="btn-raiting">
+                            4.2
+                            <img src="/img/icons/star.svg" alt="">
+                        </span>
+                    </div>
+                    <div class="info-container">
+                            <h4 class="course-category">gta3</h4>
+                            <h2 class="course-title"> Gta 3 первая часть в 3d вселенной</h2>
+                            <p class="course-desc">Компьютерная игра в жанре action-adventure, разработанная компанией DMA Design и выпущенная Rockstar Games. Это третья по счёту и первая трёхмерная игра в серии Grand Theft Auto. Она вышла в октябре 2001 года на PlayStation 2, в мае 2002 на персональных компьютерах, и в ноябре 2003 на Xbox. 4 января 2008 года она стала доступна для скачивания с помощью интернет-сервиса цифровой дистрибуции Steam. Предыдущей игрой серии является Grand Theft Auto 2, а следующей - Grand Theft Auto: Vice City.</p>
+                            <div class="course-card card-small">
+                                <div class="img-container img-card-4">
+                                    <span class="btn-raiting">
+                                        4.6
+                                        <img src="/img/icons/star.svg" alt="">
+                                    </span>
+                                </div>
+                                <div class="info-container">
+                                <h2 class="course-title">GTA vice city</h2>
+                                    <p class="course-desc">«GTA Vice City» — это игра 2003 года в жанре экшен.
+                                        Действие игры происходит в большом городе в 80-х годах, в самый пик развития криминалитета и продажи наркотиков.
+                                        Игрок может:
+                                        — ездить по городу, стрелять по врагам, выполнять задания, покупать бизнес и развивать героя в криминальном мире;
+                                        — пользоваться множеством транспортных средств (автомобилей, мотоциклов, вертолётов, моторных лодок и даже гольф-каров);
+                                        — наслаждаться яркими днями и неоновыми ночами города, прогуливаться по бандитским районам.
+                                        В игре используется фирменная подача сюжета и обилие юмора.</p>
+                                </div>
+            </section>
+        </section>
     </div>
-</footer>
+</main>
+<script src="js/media.js"></script>
+<script src="https://unpkg.com/wavesurfer.js"></script>
 <body>
     
 </body>
