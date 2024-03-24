@@ -260,5 +260,147 @@ line-height: 1;
     letter-spacing: 0.5px;
 }
 .img-card-2{background-image: url(https://lookimg.com/images/2021/11/24/PasDcE.md.jpg);}
+.btn-raiting {
+    width: 77px;
+    background-color: #111;
+    border-radius: 5px;
+    color: #fff;
+    padding: 6px 0px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.course-category {
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #bababa;
+    font-weight: 400;
+    margin: 18px 0;
+}
+.course-title {
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+}
+.course-desc {
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+    line-height: 1.7;
+    letter-spacing: 0.5px;
+}
 .img-card-3{background-image: url(https://gaming-cdn.com/images/products/351/orig-fallback-v1/grand-theft-auto-iii-pc-mac-game-steam-europe-cover.jpg?v=1663686822);}
+.btn-raiting {
+    width: 77px;
+    background-color: #111;
+    border-radius: 5px;
+    color: #fff;
+    padding: 6px 0px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.course-category {
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #bababa;
+    font-weight: 400;
+    margin: 18px 0;
+}
+.course-title {
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+}
+.course-desc {
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+    line-height: 1.7;
+    letter-spacing: 0.5px;
+}
 .img-card-4{background-image: url(https://gta-vice-city.ru/wp-content/uploads/2022/11/wxz_jqsRL9xyOOggaLEWyw-1024x576.png);}
+.btn-raiting {
+    width: 77px;
+    background-color: #111;
+    border-radius: 5px;
+    color: #fff;
+    padding: 6px 0px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.course-category {
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #bababa;
+    font-weight: 400;
+    margin: 18px 0;
+}
+.course-title {
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+}
+.course-desc {
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+    line-height: 1.7;
+    letter-spacing: 0.5px;
+}
+.img-card-5{background-image:url(https://pic.rutubelist.ru/video/0d/ce/0dceed349f291f92a1424297f7283aa8.jpg) ;}
+.btn-raiting {
+    width: 77px;
+    background-color: #111;
+    border-radius: 5px;
+    color: #fff;
+    padding: 6px 0px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.course-category {
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #bababa;
+    font-weight: 400;
+    margin: 18px 0;
+}
+.course-title {
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 0.3px;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+}
+.course-desc {
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+    line-height: 1.7;
+    letter-spacing: 0.5px;
+}
+.номера-телефона {
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #bababa;
+    font-weight: 400;
+    margin: 18px 0;
+}
+.footer{
+    background-color: #1a1a1a;
+    padding-top: 36px;
+    padding-bottom:  200px;}
+    .img-card-6 {
+        background-image: url(https://i.playground.ru/p/TYYPHxP3NzOKULCkElQzhQ.jpeg);
+    }
+    .img-card-7 {
+        background-image: url(http://igra-wow.ru/_nw/41/33843042.jpg);
+    }
